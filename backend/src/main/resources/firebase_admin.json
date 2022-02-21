@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fitsys-ucsal",
+  "private_key_id": "34ee84dece48c4b8858b0de9b03c965fd4494ba8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCerBEyDdNhd2+C\nwRWDcvEGNYe1/G6DJ5m4uIs/qySaeRPLofxLwjeAMjTeDHHrHiiovqBRbYhkk0dm\np3TAJ1e0+4vRIGaLMtRD5KvLEj7OEQO20BWJXpwylB5RGAZLNjLBn7MV1MmKZb10\nHfh5qD3Rsi2Vm2DVo8XImniawX44K3USu3YR6qoXQ6hIW7m9A41cjt4a2LxJZesV\nauE/2CZW4Mpmy+WgWGqabFmZoLNxkb7bvS0P5Mm11QhnRgsK8cEtQO8wR8hIB4/9\nl3AUqq4Q2xn9sRcYSB25eAVfks0o9fwIbZ7+0RdHhb4GaLNuecCcINsiOAtI/WkO\n/G5GCsHpAgMBAAECggEAEgqy5Ff/227pFCsoCvOqfggfa6UdvEZIE4HRXI6VWYav\npml/bm5RoP8kdYSg/ejmmuRdBpE/r17zQRQEoZY/oe2xzNhELKr9iZBCa/NhxozW\n+SYhMsbaGCKxLUuf6JSrsgo6gt6YgYb2wzGmt4+WouXBiue5W6V0923ADam3dEOn\nviwbCnNtCZbtQlKomf/9aF4JWrHAgq9AQvD3lDv7Zlqar9aJuBEsKbroWGuV6T60\nK8nRoPVjR3v+IGs8/CpruXCS5wJAU3xDzMtRzoQN1I79rWO7iaTmOdLyqUZNOpPr\ngC+0yVnXW09FSfQ0uLSdPqXyHHaZqCPAx0rfKkyjMQKBgQDatW2adZNyiw8TS7rA\nT5oSKiJOwR5Py/L60mFIozqEdYZa23gadXu37EjRYhXHpxIOKOGB3D+DMiepZVJH\nPY9rPvqYjCsdXnImo+4yrZHHb2UoktAsXfWGJTG1+VdRtkEppRyvmCORIQxKJ08S\n3emsTt+D7ai1RdI+udAlo3UHsQKBgQC5ug9qtrQ9IkkNriM3Yzbj0DriqLd+DSEB\nsslnycRzqJv6HdAKaLuQf024YNaYZy6w88l8TtK67kjpn7Nl1LI1KXxyXsxH+41E\nuiKgHG4KA/jU1cCAmJkU+Kv/cR+vg+388/Ju4+fjY8u7FnUD3O6+Kd92TqPZgqd9\nfASEMtsjuQKBgQCE6qAKsAwFH9fwnSSI/ZegFHU3MYyPaF5p6vNupqzIlXgqvZi3\nU9D1jScQATFFXhbN/jBWsJj0zcVm4Inpe9MulV7M2NrXBXAQZa48pFmlP+DVkKvt\nWsj9VptogXl80mu1uH+/g5GSAOisJEmdKLp7mo+iaQwP5rgIoPqL9VQJcQKBgBxZ\nvoi3owPB/AzOjCmkR3i3DIYU4w2my2cK95uUPRy6nDSt4Ff2bMs944tFnPxeo833\nKMaE8b3/Kbof2q6srRdYYdrDhcNnLsVS9H4kWNfGi3FRv7ThllyRKRAxIHkWVnnK\nczNiLr+TOEIyx2Hzk64LjkTs9C37t7179OSJLtJhAoGAD3MzSq5pZGWCddfuR1EL\nA96uRVQjRZ4fu/mmiYj5CAxysC6/p/AvGqTW9Yh/Ytd1bRuMzS1LJdhvu53n41ON\nRqvKKejwnMBDdnovCYUCIPD/fpjBIEoqASH4KtPPSWYMWA9o6WyvriMc9hA4njyG\ntuUUEiE45P5XggkvQVcWLyM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6t0bo@fitsys-ucsal.iam.gserviceaccount.com",
+  "client_id": "116414866777973304585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6t0bo%40fitsys-ucsal.iam.gserviceaccount.com"
+}
